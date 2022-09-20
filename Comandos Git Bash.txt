@@ -1,0 +1,32 @@
+Comandos:
+
+npm i -g typescript
+
+npm i -g ts-node typescript '@types/node'
+
+===========================================================================
+
+Significado:
+
+class = Classe.
+
+string = Cadeia para indentificar caracteres.
+
+number = Cadeia para números.
+
+import = Importar classe.
+
+export = Exportar classe.
+
+new = Criar objeto a partir da classe.
+
+constructor = Representar de forma mais prática.
+
+===========================================================================
+
+Comandos Extras:
+
+tsc [nome.ts] = Converte o arquivo para JavaScript.
+
+node [nome.js] = Roda o código no terminal.
+
